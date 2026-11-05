@@ -1,8 +1,8 @@
 # Vinícius Pereira Oliveira
 
-Estudante de Engenharia de Software na Universidade de Rio Verde (UniRV) e desenvolvedor focado em Inteligência Artificial aplicada a negócios e automação de sistemas (AI Builder).
+Estudante de Engenharia de Software na Universidade de Rio Verde (UniRV) e desenvolvedor focado em Inteligência Artificial aplicada a negócios e desenvolvimento de sistemas (AI Builder).
 
-Atuo no suporte à operação e melhoria contínua de processos na Bunge, desenvolvendo soluções de software e IA orientadas a resolver problemas reais do dia a dia.
+Construo produtos digitais e ferramentas orientadas a resolver problemas reais e otimizar rotinas operacionais.
 
 ---
 
@@ -21,10 +21,10 @@ Plataforma desenvolvida para resolver o gargalo da produção contínua de conte
 ---
 
 ### 2. Seed — Sistema de Gestão de Treinamentos Corporativos
-*Software corporativo desenvolvido e implantado na Bunge.*
+*Software corporativo desenvolvido para gestão de capacitação e conformidade.*
 
 Aplicação web desenvolvida para centralizar a governança de treinamentos obrigatórios (Normas Regulamentadoras) e matrizes de competência por função.
-* **Impacto Operacional:** Utilizado ativamente por todas as 8 filiais da regional para acompanhamento preventivo de prazos de vencimento e conformidade legal de colaboradores.
+* **Impacto Operacional:** Utilizado ativamente por 8 filiais para acompanhamento preventivo de prazos de vencimento e conformidade legal de colaboradores.
 * **Auditorias e Dados:** Centraliza histórico e documentações para auditorias internas e externas, contando com módulo de importação em lote via planilhas Excel.
 * **Stack:** Desenvolvido em React, TypeScript e Supabase.
 
@@ -47,7 +47,7 @@ App criado para ajudar casais a organizarem a rotina financeira a dois. Mais do 
 * **Inteligência Artificial:** Prompt Engineering, montagem de contexto, agentes especializados, APIs de LLMs (Anthropic Claude e Google Gemini).
 * **Backend & Dados:** Python (FastAPI, Pydantic), PostgreSQL, Supabase (Auth, RLS, Realtime), SQLite.
 * **Frontend & Mobile:** TypeScript, React.js, Next.js, React Native (Expo).
-* **Processos & Engenharia:** Metodologias de melhoria contínua (BPS), Git/GitHub, testes automatizados.
+* **Engenharia de Software:** Git/GitHub, modelagem de dados, testes automatizados.
 
 ---
 
